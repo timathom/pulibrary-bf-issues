@@ -1,4 +1,4 @@
 pulibrary-bf-issues
 ===================
 
-Draft issue reports for submission to lcnetdev/marc2bibframe
+This repository is a local staging area where Princeton University Library BIBFRAME testers can draft issue reports for submission to lcnetdev/marc2bibframe.
